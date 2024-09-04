@@ -11,7 +11,7 @@ import java.nio.file.StandardOpenOption;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class WriteStringTest {
+public class FilesWriteStringTest {
 
   private static final Path FILE_PATH = Paths.get("example.txt");
 

@@ -1,4 +1,4 @@
-package br.com.jotag.news;
+package br.com.jotag;
 
 public class Main {
   public static void main(String[] args) {

@@ -6,7 +6,7 @@ import java.util.Optional;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class OptionalIsEmptyTest {
+public class OptionalsEmptyTest {
 
   @Test
   void testOptionalIsEmptyWhenEmpty() {
