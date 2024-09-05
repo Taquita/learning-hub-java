@@ -22,14 +22,9 @@
 # 7. Nest-Based Access Control
 - Encapsulamento aprimorado: Controle de acesso mais refinado para classes aninhadas.
 - Reflective Access: Controle sobre quais classes aninhadas podem ser acessadas por reflexão.
-# 8. Novos Métodos no LocalDate e LocalTime
-- LocalDate.of(int year, Month month, int dayOfMonth): Criação de datas com mais clareza. 
-- LocalTime.of(int hour, int minute): Criação de horários com mais precisão.
-# 9. ZGC (Z Garbage Collector)
+# 8. ZGC (Z Garbage Collector)
 - Exploração e configuração: Entender como utilizar e configurar o novo coletor de lixo de baixa latência introduzido no Java 11.
-# 10. Compact Strings
+# 9. Compact Strings
 - Exploração interna: Entendimento de como o Java 11 otimiza a representação de strings internamente para economizar memória.
-# 11. Deprecated Features
-- Explorar as funcionalidades que foram deprecated: Entendimento sobre o que foi marcado como obsoleto e o que usar no lugar.
-# 12. Flight Recorder e Mission Control
+# 10. Flight Recorder e Mission Control
 - Monitoramento e diagnóstico: Utilização das ferramentas para monitoramento de desempenho e análise de falhas em aplicações Java.
