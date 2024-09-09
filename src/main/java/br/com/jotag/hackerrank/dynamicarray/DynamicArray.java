@@ -1,11 +1,11 @@
-package br.com.jotag.hackerrank.dynamicArray;
+package br.com.jotag.hackerrank.dynamicarray;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class DynamicArray {
 
-    public static List<Integer> dynamicArray(int n, List<List<Integer>> queries) {
+    public static List<Integer> exec(int n, List<List<Integer>> queries) {
         int lastAnswer = 0;
         List<Integer> answers = new ArrayList<>();
         List<List<Integer>> dynamicMatrix = new ArrayList<>(n);
